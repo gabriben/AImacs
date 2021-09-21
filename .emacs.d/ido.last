@@ -1,0 +1,516 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/src/models/" . "tresnet/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/src/" . "models/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/" . "src/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/" . "sigmoidF1/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/diverseNewsReco/" . "dart/")
+ ("/ssh:ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/Yahoo/" . "ltrc_yahoo/")
+ ("/ssh:ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/HarrieRuns/" . "fairPreds/")
+ ("/ssh:ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/anaconda3/" . "bin/")
+ ("/ssh:ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/" . "Yahoo/")
+ ("/ssh:ilps-h1.science.uva.nl:/ivi/ilps/projects/" . "TREC_Fair_2021/")
+ ("/ssh:ilps-h1.science.uva.nl:/ivi/ilps/" . "projects/")
+ ("/ssh:ilps-h1.science.uva.nl:/ivi/" . "ilps/")
+ ("/ssh:ilps-h1.science.uva.nl:/" . "bin/")
+ ("/ssh:gbenedi@ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/HarrieRuns/" . "firstTry/")
+ ("/ssh:gbenedi@ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/2021-SIGIR-plackett-luce/" . "local_output/")
+ ("/ssh:gbenedi@ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/" . "2021-SIGIR-plackett-luce/")
+ ("/ssh:gbenedi@ilps-h1.science.uva.nl:/ivi/ilps/projects/" . "TREC_Fair_2021/")
+ ("/ssh:gbenedi@ilps-h1.science.uva.nl:/ivi/ilps/" . "projects/")
+ ("/ssh:gbenedi@ilps-h1.science.uva.nl:/ivi/" . "ilps/")
+ ("/ssh:gbenedi@ilps-h1.science.uva.nl:/" . "ivi/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/Master-Thesis-DS/" . "Thesis Paper/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/" . "Master-Thesis-DS/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/jobs/" . "eveningSigmoid/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/datasets/Hallmarks-of-Cancer/" . "labels/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/datasets/" . "Hallmarks-of-Cancer/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/transformers/models/" . "distilbert/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/transformers/" . "models/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/" . "transformers/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/" . "src/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/multilabel/" . "sections/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Cities/" . "Amsterdam/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/databricks_learnings/" . "utils/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/bookmarksWebsite/learn-elm/" . "examples/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/bookmarksWebsite/" . "firstProject/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/VLAP/" . "VLAP/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/" . "sigmoidF1/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/" . "script/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/conferences/" . "Recsys/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/reading groups/" . "CBSR/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/" . "trailerPersonalisation/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/" . "misc/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/musicRights/" . "data/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/Bedrock/projects/videopipe/pipelines/" . "slomo/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/Bedrock/projects/videopipe/" . "pipelines/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/Bedrock/projects/recsys/" . "data/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Candidatures Summer 20/" . "RenaissanceRe/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/Bedrock/projects/" . "testing/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/Bedrock/" . "projects/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/online learning/done/" . "web crawling with R (DataCamp)/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/online learning/" . "done/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/" . "databricks_learnings/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/sick-bot.github.io copy/src/" . "css/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/sick-bot.github.io/" . "src/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/Bertelsmann-AI/modelTemplate/data/" . "external/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/Bertelsmann-AI/modelTemplate/" . "data/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/sick-bot.github.io/src/" . "chatbots/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/data/" . "metaData/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/gabriben.github.io/" . "GDPvsStockMarket/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/" . "expDesign/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/imageSceneCat/" . "script/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/" . "diverseNewsReco/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/" . "ds-bedrock-personalisation/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/" . "projects/")
+ ("/Users/bened2/G+J/predictArticleScore/" . "data/")
+ ("/Users/bened2/G+J/Outbrain/" . "explain bump Desktop Galleries sep-nov/")
+ ("/Users/bened2/G+J/articleScoring/" . "artScoring/")
+ ("/Users/bened2/G+J/" . "predictArticleScore/")
+ ("/Users/gabrielbenedict/.emacs.d/elpa/" . "leuven-theme-20190831.1008/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/polygenic risk scores/UKBiobank/hpc-work V2/" . "code/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/polygenic risk scores/UKBiobank/" . "hpc-work V2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v13/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v12/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v12/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v12/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v13/fineTuning/" . "fold-2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v13/selfLearning/" . "fold-2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v13/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v27/test/" . "fold-3/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v27/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v11/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v11/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v11/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v11/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v2/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v4/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/data_file/multitask/" . "column 1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v3/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v18/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v18/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v18/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v17/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v16/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v16/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v16/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v15/selfLearning/" . "fold-2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v15/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v14/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v14/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v9/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v9/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v10/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v10/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v8/test/" . "fold-2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v8/fineTuning/" . "fold-2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v7/test/" . "fold-2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v4/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v4/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v4/" . "fineTuning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v5/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v5/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v5/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v5/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v6/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v0/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v0/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v2/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v1/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v1/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v25/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v25/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v25/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v19/test/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v17/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-7/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-7/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v6/fineTuning/" . "fold2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v6/selfLearning/" . "fold1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v20/selfLearning/" . "fold1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v20/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v19/selfLearning/" . "fold1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v19/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v17/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v17/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/rds/user/yz555/hpc-work/TFmodels/SSDAE-v13/selfLearning/" . "fold1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/rds/user/yz555/hpc-work/TFmodels/SSDAE-v13/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/rds/user/yz555/" . "hpc-work/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/rds/user/yz555/hpc-work/TFmodels/SSDAE-v12/selfLearning/" . "fold1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/rds/user/yz555/hpc-work/TFmodels/SSDAE-v12/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/rds/user/yz555/hpc-work/TFmodels/" . "SSDAE-v13/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/rds/user/yz555/hpc-work/" . "TFmodels/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v9/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v9/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v7/selfLearning/" . "fold-3/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v7/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v8/selfLearning/" . "fold-2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v8/" . "selfLearning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v3/fineTuning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v3/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v3/" . "fineTuning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v2/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v0/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v0/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v1/selfLearning/" . "fold-1/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v1/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v6/" . "test/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/SSDAE-v2/" . "fineTuning/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/TFmodels/" . "SSDAE-v13/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/polygenic risk scores/clean/" . "models/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/anaconda2/envs/" . "gab/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/" . "yz555/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:~/anaconda2/" . "bin/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:~/" . "anaconda2/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/anaconda2/" . "bin/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/" . "anaconda2/")
+ ("/miniconda2/" . "bin/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/data_file/" . "multitask/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/rds-jmmh2-projects/inouye_lab_other/impute_genomics/yx322/" . "ukb_genetics_new_rsids/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/rds-jmmh2-projects/inouye_lab_other/impute_genomics/" . "yx322/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/rds-jmmh2-projects/inouye_lab_other/" . "impute_genomics/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/rds-jmmh2-projects/" . "inouye_lab_other/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/" . "bin/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/" . "RTL/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/HighDModel/" . "HighDModel/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/hpc-work/" . "TFmodels/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:/home/yz555/rds/" . "hpc-work/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:rds/" . "hpc-work/")
+ ("/ssh:yz555@login-gpu.hpc.cam.ac.uk:" . "rds/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/polygenic risk scores/HighDModel/" . "HighDModel/")
+ ("/Users/gabrielbenedict/.emacs.d/" . "elpa/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/polygenic risk scores/Write Up/" . "code/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/polygenic risk scores/Toy data set/" . "intModels_Rel/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Friends/" . "Montaga/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/polygenic risk scores/Modelling/" . "Feature Selection/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/polygenic risk scores/" . "Write Up/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/" . "NIPS/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/" . "Bertelsmann/")
+ ("/Users/gabrielbenedict/Desktop/" . "multiVar/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/Support Vector Machines/Exercises/Session 3/My Solution/" . "Code/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/Support Vector Machines/Exercises/Session 3/" . "My Solution/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Testing and Validating survThief/Reconstructions/reproducing survival meta analysis/Not Yet/" . "Tokuda/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Testing and Validating survThief/Reconstructions/reproducing survival meta analysis/" . "Not Yet/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Testing and Validating survThief/Reconstructions/reproducing survival meta analysis/Reconstructed/" . "Preventza/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Reconstructions/reproducing survival meta analysis/Modelling/" . "Weibull/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/survThief/" . "R/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Text/" . "markdown/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/Support Vector Machines/Exercises/Session 1/My Solution/" . "Code/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/Support Vector Machines/" . "Exercises/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/" . "Support Vector Machines/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/Support Vector Machines/Exercises/Session 1/" . "My Solution/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Candidatures Summer 19/" . "Bretelsmann/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/" . "Work Experience/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/Support Vector Machines/Exercises/Session 2/My Solution/" . "code/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/Support Vector Machines/Exercises/Session 2/" . "My Solution/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/Support Vector Machines/Exercises/" . "Session 3/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Digitize Survival Curves in sections/Code/survThief/" . "R/")
+ ("/Users/gabrielbenedict/Library/" . "LaunchAgents/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Reconstructions/reproducing survival meta analysis/Reconstructed/" . "Benrashid/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/Coding/" . "Python/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Reconstructions/reproducing survival meta analysis/" . "Pelota/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Reconstructions/" . "Small Simulation/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Digitize Survival Curves in sections/Code/" . "survThief/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/Digitize Survival Curves in sections/" . "Code/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Master Thesis/" . "survThief/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Philosophy of Science/papers/" . "Paper 1/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Spatial Statistics/HWs/HW3/" . "CensusTracts_2/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Spatial Statistics/HWs/" . "HW4/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Spatial Statistics/" . "Notes/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Applied Data Science/Projects/Fall2018-Proj1-gabriben/" . "doc/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Applied Data Science/Projects/" . "Fall2018-Proj1-gabriben/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Applied Data Science/" . "Projects/")
+ ("/Users/" . "gabrielbenedict/")
+ ("/" . "Users/")
+ ("/Users/gabrielbenedict/" . "Google_Drive/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Philosophy of Science/Notes/" . "Course Notes/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Philosophy of Science/" . "Notes/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Spatial Statistics/Notes/" . "Course Notes/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Time Series Analysis/Notes/" . "Class Notes/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/Time Series Analysis/" . "Midterm/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/" . "Semester 4/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/Courses/" . "statGen/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/columbia/" . "Courses/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Exchange/" . "columbia/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/" . "Courses/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/" . "KU Leuven/")
+ ("/Users/gabrielbenedict/Google_Drive/docs/" . "Jobs/")
+ ("/Users/gabrielbenedict/Google_Drive/" . "docs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/gabrielbenedict/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/jobs/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/diverseNewsReco/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/misc/twiki/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Projects/expDesign/expDesignStreamlit/"
+ "/ssh:ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/"
+ "/ssh:ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/HarrieRuns/fairPreds/"
+ "/ssh:ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/anaconda3/bin/"
+ "/ssh:gbenedi@ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/HarrieRuns/firstTry/"
+ "/ssh:gbenedi@ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/2021-SIGIR-plackett-luce/"
+ "/ssh:gbenedi@ilps-h1.science.uva.nl:/ivi/ilps/projects/TREC_Fair_2021/2021-SIGIR-plackett-luce/local_output/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/misc/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/reviewing/CIKM21/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/newsPics/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/VLAP/VLAP/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/Master-Thesis-DS/Thesis Paper/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/Master-Thesis-DS/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/multilabel/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/multilabel/sections/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/midroll/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/databricks_learnings/utils/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/jobs/eveningSigmoid/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/EEG/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Coding/Python/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Projects/github-tools/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Projects/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/ablation/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/dataPrep/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/VLAP/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/transformers/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/transformers/models/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/transformers/models/distilbert/"
+ "randomFolder/"
+ "/Users/gabrielbenedict/Desktop/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/NIPS/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/readingClub/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Friends/Montaga/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/intent/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Cities/Amsterdam/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Friends/famille/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/VLAP/archive/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/databricks_learnings/TBD/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/databricks_learnings/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Projects/bookmarksWebsite/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Projects/bookmarksWebsite/learn-elm/"
+ "/Users/gabrielbenedict/Google_Drive/docs/Projects/bookmarksWebsite/learn-elm/examples/"
+ "/Users/gabrielbenedict/.pachyderm/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".bash_profile"
+ "train.py"
+ "__init__.py"
+ ".#launchJobs.py"
+ "#launchJobs.py#"
+ "run.py"
+ "usingSlurm.md"
+ "usingSlurm.twiki"
+ "ilpsCluster.md"
+ "ilpsCluster.twiki"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/gabrielbenedict/Desktop/" (24904 14912 80166 427000) "Paper - Liu-et-al.pdf" "Zu lesen" ".#videopipe_tutorial.py" "wetransfer-ec7c18.zip" "wetransfer-b252ac.zip" "Situation 1 Steve missed the deadline.pdf" "As lockdowns lift, media firms brace for an “attention recession” _ The Economist.pdf" "1079120130.pdf" "FACT-AI 2021 - Course assignment-2.pdf" "Situation 2 Eva wants help.pdf" "Modeling_the_impact_of_short-_and_long-term_behavi.pdf" "4668229.zip" "BIOSIGNALS_2020_23_CR.pdf" "Feuille de couverture.pdf" "posters.7z" "Will conversational commerce be the next big thing in online shopping_ _ The Economist.pdf" "1-s2.0-S0306457320309705-main (1).pdf" "videoland.com-Performance-on-Search-2021-04-20 (2).zip" "ltresnet_86.52.txt" "CIKM_2021_paper_2043 (1).pdf" "declaration-de-quarantaine-fr-20210528.pdf" "ContentServer.pdf" "A_Literature_Survey_on_Algorithms_for_Multi-label_.pdf" "Learning to Rank Challenge/" "algorithmic-marketing-ai-for-marketing-operations-r1-7g.pdf" "Apostolidis AC-SUM-GAN 2020 Accepted.pdf" "webinar-98119484688.ics" "Ayoub-ICDL1701.pdf" "Bill Chambers, Matei Zaharia - Spark_ The Definitive Guide_ Big Data Processing Made Simple (2018, O’Reilly Media).pdf" "clean_data/" "deep-features-video.pdf" "Apostolidis AC-SUM-GAN 2020 Accepted (1).pdf" "EGEP_de.pdf" "AISTATS2022PaperPack.zip" "1706.07639.pdf" "Fair TREC 2021 Metrics.pdf" "2010_Book_DataMiningAndKnowledgeDiscover.pdf" ".#S1566253517307273.bib" "mathematics-08-01995-v3 (1).pdf" "Hackathon_Gab.R" "45562.pdf" "BDA3.pdf" "setting_the_target.pdf" "FACT-AI 2021 - Course assignment.pdf" "Salarisspecificatie-202104.pdf" "Salarisspecificatie-202105.pdf" "orgcard.pdf" "formulairedentree.pdf" "electronics-08-00832.pdf" "Brief aan werkgevers Pensioenraad PNO4 RTL Nerderland BV contr 137  653.pdf" "Bonsai-1.0.6-universal.dmg" "Negative+test+declaration+form.pdf" "16524-Article Text-20018-1-2-20210518.pdf" "tsoumakas-ijdwm.pdf" "Salarisspecificatie-202106.pdf" "65-Article Text-114-1-10-20190122.pdf" "mathematics-08-01995-v3.pdf" "ds-data-apps-gtst_dataset.zip" "08352808.pdf" "1312.6114.pdf" "M1 - CL Introducing yourself as the teacher.pdf" "5ARTICLE9IJCNSIRANIAN.pdf" "191105-eng_academische-kalender-2020-2021_-including-may-week.pdf" "Screenshot 2021-09-11 at 11.14.08.png" "I 20 2018.pdf" "ingbankinfosheet.pdf" "Botanical_Collection_Asset_Bundle/" "1512.03385.pdf" "Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf" "Zu schauen" "curriculum learning.pdf" "Screenshot 2021-05-18 at 12.09.29.png" "aaa/" "SIGIR2021_Paper_848.pdf" "1909.11512.pdf" "Paper - Mohankumar-et-al.pdf" "Giraldo-Forero2013_Chapter_ManagingImbalancedDataSetsInMu.pdf" "2019_Book_QuantumComputingAnAppliedAppro.pdf" "Relocated Items/" "bermejonievas2011.pdf" "ilps-slurm.pdf" "QA_RTL_TALPA_RTL ALL.pdf" "Botanical_Collection_Asset_Bundle.zip" "Q&A digitale aanval 090921 vs 11.00 uur.pdf" "Hackathon_logo.ai" "CV Alexis 2.pdf" "ltresnet_86.52 2.txt" "2020_Book_FrontiersInIntelligentComputin.pdf" "Traveller+public+health+declaration+(English)+fillable+document.pdf" "canoninternetprinteruva_macos.iso" "happy-people-a-year-in-the-taiga-english-835176.zip" "Yuan-Wang2017_Article_Reduced-rankMulti-labelClassif.pdf" "DP2019+EN+printversie.pdf" "uva_fnwi_jaarmagazine-2020.pdf" "ijerph-17-04152-v2.pdf" "hbku2019/" "Artificial intelligence in radiology - 100 commercially available products and their scientific evidence - EurRadiol 2021.pdf" "IMG_6046.MOV" "3290607.3299057.pdf" "To read – Stats" "Maheswari2019_Article_AdaptableAndProficientHellinge.pdf" "happy-people-a-year-in-the-taiga-english-835177.zip" "On-Becoming-a-Person-A-Therapist-s-View-of-Psychotherapy.epub" "declaration-de-quarantaine-fr-20210528 copy.pdf" "Data Videoland.zip" "Zu gucken" "variants-1514.pdf" "7ggzeuUt/" "Testen voor reizen - Maak een afspraak.pdf" "4668229/" "label.pdf" "Screenshot 2021-09-06 at 09.27.08.png" "videoland.com-Performance-on-Search-2021-04-20.zip" "Screenshot 2021-09-03 at 15.06.39.png" "Screenshot 2021-09-11 at 11.14.03.png" "Mijn bestanden - OneDrive.pdf" "cropped_images 2/" "wetransfer-573550.zip" "5ARTICLE9IJCNSIRANIAN (1).pdf" "tsoumakas-ijdwm (1).pdf" "Add Review on CIKM 2021 Submission 1576.pdf" "dataset/" "LabF (1).pdf" "Situation 1 Steve missed the deadline (1).pdf" "IMG_6054.MOV" "auto/" "Relocated Items.nosync/" "Jakub Langr, Vladimir Bok - GANs in Action_ Deep learning with Generative Adversarial Networks (2019, Manning Publications) - libgen.lc.epub" "ENG VERSION QA_RTL_TALPA_RTL ALL.pdf" ".localized" "DeloopBicat.pdf" "code-of-conduct-uva-28-08-2020.pdf" "CIKM_2021_paper_1576.pdf" "Zu Spielen" "CIKM_2021_paper_2043.pdf" "[Lecture Notes in Statistics 19] Luisa Turrin Fernholz (auth.) - von Mises Calculus For Statistical Functionals (1983, Springer-Verlag New York) - libgen.lc.pdf" "43146.pdf" "As lockdowns lift, media firms brace for an “attention recession” _ The Economist (1).pdf" "LearningSpark2.0.pdf" "videoland.com-Performance-on-Search-2021-04-20 (1).zip" "CIKM_2021_paper_2043 (2).pdf" ".DS_Store" "2094072.2094078.pdf" "azm06Ob_460svvp9.webm" "Geekbench 5.app/" "2019.10.16 Santander.pdf" "kyono2019.pdf" ".#showOff.py" "Anlage 5 Merkblatt AHV-Krankenkasse.pdf" "course-Harrell.pdf" "3298689.3347058.pdf" "Pop.dmg" "Recettes" "Fluent Python.pdf" "wetransfer-b252ac/" "Cybenko1989_Article_ApproximationBySuperpositionsO.pdf" "mpdf.pdf" "irl-foundation.pdf" "Screenshot 2021-09-11 at 11.13.55.png" "laws-blog.pdf" "5972-Article Text-9197-1-10-20200513.pdf" "1177729694.pdf" "Geekbench-5.4.1-Mac.zip" "LabF.pdf" "AISTATS2021PaperPack.zip" "9781601982452-summary.pdf" "Screenshot 2021-09-03 at 16.34.08.png" "mnist/" "Peep.Show.S01-S07.COMPLETE.DVDRip.XviD-TD/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/" (24904 16163 313048 380000) "src/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/" (24904 20348 845187 362000) "src/" "MODEL_ZOO.md" ".git/" "infer.py" "train.py" "validate.py" "README.md" "mlruns/" "pics/" "sigmoidF1/" "requirements.txt" "LICENSE" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/jobs/" (24904 15241 392905 958000) "pascalVoc.json" "Arxiv2020FOCAL/" "chem/" "chemExposure.json" "moviePosters/" "cancer/" "Ar‘iv2020FOCAL/" "cancer.json" "launchJobs.py" "moviePosters.json" "pascalVoc/" "chemExposureFOCAL/" "#pascalVoc.json#" "Arxiv2020.json" "cancerFOCAL/" "Arxiv2020/" ".DS_Store" "chemExposure/" "eveningSigmoid/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/src/models/tresnet/" (24872 42773 164082 987000) "__pycache__/" "__init__.py" "tresnet.py" "layers/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/src/models/" (24872 42773 161359 460000) "__pycache__/" "utils/" "__init__.py" "tresnet/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/src/loss_functions/" (24900 50034 883864 870000) "losses.py" "__pycache__/" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/src/helper_functions/" (24900 50024 608417 402000) "__pycache__/" "__init__.py" "helper_functions.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/sigmoidF1/sigmoidF1/src/" (24900 50005 956527 539000) "helper_functions/" "models/" "__init__.py" "loss_functions/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/" (24896 20260 599792 72000) "dataPrep/" "jobs/" "wei/" "losses.py" "sigmoid.R" "transformers/" "ablation/" "sigmoidPlot/" "exploration/" "testingVLAP.py" "codex/" "sensitivity/" "sigmoidF1/" ".DS_Store" "VLAP/" "existingImplementations/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/" (24868 46189 675402 355000) "github-tools/" "Mia/" "vulgarize studies/" "Automatic Job Listings/" "pdf title to names/" "invest in AMD/" "bookmarksWebsite/" "Laura_Messages/" "investissements/" "sick-bot.github.io/" "blender&python/" "arxiv-latex-cleaner/" "obsidian/" ".ipynb_checkpoints/" "WB circular barplot dashboard/" "invest in DNA Storage companies/" "simpletransformers/" "Google Live Location Frequentation/" "gabriben.github.io/" "ML/" "Draw NN from code/" "Hegel/" "survThief/" "sleep patterns/" "table3-768x1236.jpg" "Emacs/" "emails verifier/" "sick-bot.github.io copy/" "fun.el" "Algorithms I – Coursera/" "wikipedia changes/" "codeGolf/" "Emails to big pdf/" "write a floydhub article/" "Untitled.ipynb" "invest in IPOs/" "arxiv latex cleaner/" ".DS_Store" "mia-app-mirror/" "expDesign/" "Music Website/" "laura_housing_brussels/" "gabriben.github.io ToDo/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/multilabel/" (24868 42702 334970 669000) ".git/" ".gitattributes" ".gitignore" "sigmoidF1_arXiv.zip" "sigmoidF1/" "sigmoidF1_arXiv/" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/VLAP/VLAP/" (24881 48868 258432 868000) "keepAvailableImagesInTab.py" "macroSoftF1.py" "sigmoidF1.py" "parseFunction.py" "weightedF1.pyc" "loadNet.py" "tencentLoss.py" "printTime.py" "createDataset.py" "__init__.pyc" "train.py" "macroF1.py" "binarize.py" "split.py" "hammingScore.py" "attachHead.py" "mAP.py" "__init__.py" "hyperparameters.py" "computeMetrics.py" "learningCurves.py" "removeRareLabels.py" "focalLoss.py" ".DS_Store" "weightedF1.py" "../" "./")
+
+ ("/Users/gabrielbenedict/" (24900 14157 444306 252000) "OneDrive - Bertelsmann SE & Co. KGaA/" "Google_Drive/" ".conda/" "spark/" ".azure/" "RMAIL" "PlayOnMac's virtual drives/" ".viminfo" ".saml2aws" ".bash_history" "Dropbox-work/" ".python-eggs/" "setup-awscli.sh" ".gitconfig" ".aws/" ".cache/" ".python_history" "Downloads/" ".Xauthority" ".ispell_english" ".qri/" ".bash_profile" ".vscode/" ".rstudio-desktop/" ".swt/" "Documents/" ".npm/" ".TeXgraph/" ".scala_history" ".pachyderm/" ".keras/" ".jupyter/" "floobits/" ".ipynb_checkpoints/" ".gitflow_export" ".zoomus/" ".Trash/" ".Rapp.history" ".cookiecutter_replay/" "Dropbox/" "MEGAsync/" ".emacs~" ".freemind/" "Applications/" ".emacs" "Movies/" ".ssh/" ".bosonx/" ".sheepshaver_prefs" ".bash_profile-miniconda3.bak" ".wapi/" ".bash_profile-miniconda2.bak" ".RData" ".cisco/" "Bibliothèque calibre/" ".mapscii/" ".kube/" "mediapipe/" ".idlerc/" ".serverauth.88374" ".gitignore" ".emacs GJ" ".emacsGJ" ".dropbox/" "Public/" ".emacs-spacemacs.d/" ".serverauth.72250" "emacs.d GJ.d/" ".bash_sessions/" ".serverauth.60162" "Sites/" ".terraformrc" ".cups/" ".gitignore_global" ".gretl2rc" ".elfeed/" ".emacs.d/" ".minikube/" ".bash_profile.pysave" ".sheepshaver_nvram" ".floorc.json" ".oracle_jre_usage/" ".lesshst" ".gretl/" ".serverauth.26961" ".matplotlib/" "Library/" "Desktop/" ".ipython/" ".p2/" ".gnome2/" ".dbt/" ".cookiecutters/" "dvbern-tax/" ".rnd" ".blenderpy/" "VaudTax2017/" ".saves/" ".ipfs/" ".TabNine/" ".atom/" "VaudTax2019/" ".fontconfig/" "Pictures/" "Creative Cloud Files/" "VaudTax2018/" ".local/" ".streamlit/" "VaudTax2016/" ".elm/" ".serverauth.35666" ".databrickscfg" ".emacs.d Feb20.d/" ".bashrc" ".subversion/" ".qgis2/" "#.bash_profile#" "bin/" "randomFolder/" ".hgignore_global" ".Rprofile" "archive/" ".CFUserTextEncoding" ".mne/" ".yarnrc" "ActiveGSLocalData/" "get-pip.py" ".thumbnails/" ".avidemux6/" ".DS_Store" "go/" ".emacsOld" ".anyconnect" ".node-gyp/" ".openshot_qt/" ".docker/" "baby.mkv" "Circular Air-Light 3.46.45 PM.ttf" ".yarn/" ".smartclient/" "Music/" ".config/" ".Renviron" ".eclipse/" ".Rhistory" ".emacsOriginal" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/expDesign/expDesignStreamlit/" (24850 12162 241382 343000) "trying.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/diverseNewsReco/" (24850 12167 491081 580000) "data/" "original.pdf" "dart/" ".DS_Store" "run.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/diverseNewsReco/dart/" (24826 41020 965718 893000) "metrics_calculation.py" ".travis.yml" "data/" "main.py" ".git/" ".github/" ".gitignore" "setup.py" "README.md" "script/" "tests/" "config.json" "dart/" "test-requirements.txt" "requirements.txt" "data_preprocessing.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/" (24798 52467 780574 839000) "EEG/" "stripPosition/" "rank/" ".git/" "movie2vec/" "diverseNewsReco/" "bedrockPersonalisation/" "midroll/" ".gitignore" "intentBasedClustering/" "videoCropping/" "README.md" "videoSceneCat/" "whatToWatch/" "personalisation_road-map.md" "references/" ".DS_Store" "TF-IDF/" "personalizedPosters/" "imageSceneCat/" "bolEvent/" "music/" "attributionWJacques/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/misc/twiki/" (24825 14912 326648 616000) "usingSlurm.twiki" "usingSlurm.md" "ilpsCluster.twiki" "ilpsCluster.md" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/misc/" (24825 13894 373440 32000) "twiki/" "hyperopt" "#hyperoptMLFlow.py#" "outputs/" "GPT-3/" "slurm.org" ".#helloWorld.py" "mlruns/" ".#hyperoptMLFlow.py" ".DS_Store" "slurmScript.sh" "#helloWorld.py#" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/" (24256 9114 892472 634000) "UNISG/" "Exchange.gsheet" "Yeshiva University/" "online learning/" "KU Leuven/" "PhD/" "Inscriptions/" ".DS_Store" "bulletins/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/" (24756 41371 897160 56000) "paperwork/" "newPics.html" "readingClub/" "dataTeam/" "sprintReview1.org" "projects/" "Icon
+" ".DS_Store" "contract/" "misc/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/expDesign/" (24824 10493 649948 169000) "expDesignStreamlit/" ".DS_Store" "exp-design/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Cities/Amsterdam/" (24817 24926 978841 699000) "[Jan_Erik_Grezel,_Frans_Montens,_Abondio_Giuseppe_(BookFi).pdf" "grenstraat/" "theEconomist.org" "contract Marco.pdf" "RENTAL AGREEMENT GD10.pdf" "rental required docs/" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/reviewing/CIKM21/" (24812 1626 66970 140000) "#MARIF.org#" "MARIF.org" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/VLAP/archive/" (24526 10035 937060 636000) "checkEmptyImages_UNUSED.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/" (22551 38011 0 0) "Matic/" "Spinnacker" "Cytel/" "Outfittery/" "Adecco/" "Transgovernmental networks/" "Cambridge/" "Master Thesis Assistant/" "Bertelsmann/" ".DS_Store" "Aeris Capital/" "Danone/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/reading groups/CBSR/" (24521 64536 716036 715000) "conversational.pdf" "Modularized Transfomer-based Ranking Framework.pdf" "hierarchical RL for reco.pdf" "Estimation–Action–Reflection.pdf" "CBSR.org" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/databricks_learnings/TBD/" (24520 56822 654058 659000) "setGlobals.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/bookmarksWebsite/" (24510 49025 457649 54000) "elm-spa-example/" "firstProject/" "notes.org" "learn-elm/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/bookmarksWebsite/learn-elm/examples/" (24506 36564 410388 457000) "html_external_css.elm" "time_basic.elm" "fizzBuzz/" "command-dice.elm" "native-modules/" "elm-ports/" "SignupForm.elm" "form_extended.elm" "counter-reset.elm" "form.elm" "text_fields.elm" "http_input_exercise.elm" "pluralize.elm" "elm-package.json" "switch.elm" "buttons-counter-reset.elm" "elm.json" "buttons.elm" "binary_tree.elm" "buttons-tachyons.elm" "random-number.elm" "time_pause.elm" "random.elm" "README.md" "spelling.html" "http.elm" "buttons-viewdot.elm" "hello-world.elm" "counter.elm" "bmi/" "images/" "web_sockets.elm" "time.elm" "spelling.elm" "app.elm" "elm-flags/" "random_dice.elm" "checkboxes.elm" "subscriptions.elm" "addone.elm" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/bookmarksWebsite/learn-elm/" (24506 36350 710162 480000) ".git/" "tutorials/" "elm-package.json" "examples/" "circle.yml" "CONTRIBUTING.md" "package.json" "package-lock.json" ".gitignore" "circle-dependencies.sh" "README.md" "elm-stuff/" "node_modules/" "index.html" "../" "./")
+
+ ("/Users/" (24076 20864 0 0) "gabrielbenedict/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/" (22236 42171 0 0) "US VISAS.eml" "Candidatures Winter 16/" "Interview Resources/" "Work Experience/" "Candidatures Summer 19/" "Candidatures Summer 16/" "Candidatures Summer 20/" "Candidatures Summer 18/" "Icon
+" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/" (24793 47423 180578 198000) "Maarten/" "paperwork/" "Trustworthy Online Controlled Experiments/" "#pengjie.org#" "conferences/" "research proposal/" "reading list/" "presentations/" "courses/" "reviewing/" "masterTheses/" "step-by-step-instructions-en---doctorate-regulations-2014---sept-2019.pdf" "b37da5e438e6355418c726469f6a00473dc3.pdf" "talks/" "pengjie.org" "reading groups/" "icml00-irl.pdf" ".DS_Store" "research topics/" "TREC/" "misc/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/reviewing/" (24793 47423 180704 892000) "CIKM21/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Friends/Montaga/lastGames/" (24477 13450 757327 189000) "lastGames.org" "lastGames.pdf" "lastGames.tex" "_minted-lastGames/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Friends/Montaga/" (24477 5764 925099 399000) "lastGames/" "_minted-games/" "games.org" "games.pdf" "games.tex" ".DS_Store" "_minted-blabla/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/imageSceneCat/script/" (24477 3853 787751 202000) "#unavailableImages.py#" ".#unavailableImages.py" "#foldersToCSV.py#" "zwartboek.R" "checkResukts.py" "testStills.R" "getStills.py" "MMR.py" "unavailableImages.py" "#getStills.R#" "59079.jpeg" "joel.sql" "learnfromStills.txt" "movieGenre.rds" "genresCount.rds" "readSuperGenres.R" "stillToGenre.R" "unavailableHash.txt" "stillToSuperGenre.R" ".DS_Store" "readGenres.R" ".Rhistory" "getStills.R" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/conferences/Recsys/" (24466 30216 751656 568000) "#papersToRead.org#" "prev best papers/" "to read/" "netflix/" "Badge_f25d2bf27bce4ebd9fee57e03895d46f.pdf" "pics/" "recsys2020.bib" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/Master-Thesis-DS/Thesis Paper/" (24759 41193 651801 665000) "main.blg" "main.log" "main.aux" "bibliography.bib" "main.out" "TitlePage/" "main.tex" "auto/" "main.pdf" "main.bbl" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/" (24724 4211 323738 456000) "thesis-regulations-gsh-2020.pdf" "msc-ai-thesis-evaluation-rubric.pdf" "guidelines and form/" "thesis-manual-2018-2019-pol.pdf" "beoordelingsformulier-masterscriptie-en.docx" "Marta/" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/" (24784 34790 681541 747000) "Master-Thesis-DS/" "Master-Thesis-DS copy/" "IlpsCluster_UsingSlurm _ Main _ TWiki.pdf" "final/" "Marta.org" "ThesisDesignPeriod.slides.html" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/final/" (24793 47010 703078 947000) "Thesis_DS_-_FINAL_qx2typcm.pdf" "Thesis Assessment Form.pdf" "finalAssessment.org" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/multilabel/sections/" (24752 45038 482497 947000) "02-background.tex" "03-method.tex" "07-conclusions.tex" "06-related-work.tex" "04-experimental-setup.tex" "05-experimental-results.tex" "auto/" ".DS_Store" "01-introduction.tex" ".Rhistory" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/midroll/" (24741 64889 289605 814000) "scene_cuts_lunedge.mp4" "ba65294f-0300-4e00-bc3a-f6d8a422658a_1080.mp4" "scene_cuts.gif" "midroll.py" "scene_cuts.mp4" "output.mp4" "scene_cuts_edgevideopipe.mp4" "ba65294f-0300-4e00-bc3a-f6d8a422658a_midroll_marker_output.json" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/Master-Thesis-DS/" (24742 19876 155783 511000) "Data/" "Thesis Design/" ".git/" "Guidelines/" "README.md" "Code/" "Thesis Paper/" "Thesis_Design_DS.pdf" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/Master-Thesis-DS/Thesis Design/" (24739 46380 540015 213000) "main.blg" "main.log" "main.aux" "bibliography.bib" "main.out" "main.tex" "auto/" "Images/" "main.pdf" "main.bbl" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/masterTheses/Marta/Master-Thesis-DS/Guidelines/" (24646 17367 560222 4000) "MasterThesisPresentationSlides.slides.html" "Presentation-Thesis-Procedure-2020-21.pdf" "ThesisDesignPeriod.slides.html" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/conferences/" (24424 33249 83771 595000) "Recsys/" "14th ACM Conference on Recommender Systems - RecSys 2020 - Confirmation _ Online Registration by Cvent.pdf" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/" (24697 13765 268555 200000) "musicRights/" "data/" "data visualisation challenge/" "ds-bedrock-personalisation/" "data academy/" "data-dbt/" "TDDS/" "archive/" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/" (24633 62810 856246 994000) "simulation platform/" "adaptive testing/" "bias in reco/" "fairness/" "IRL/" "trailerPersonalisation/" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/databricks_learnings/utils/" (24713 24421 354040 125000) "jsonScene.json" "launchJob.py" "log_workflow_parameters.R" "mount.py" "jonScene.py" "jobExample.py" "MLFlow_setup.R" "myExp/" "MLFlow_template.R" "__pycache__/" "log_tags.R" "save_model.R" "jsonExample.json" "jsonAzureExample.json" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/misc/" (24712 65191 915698 482000) "GB2019.pdf" ".ipynb_checkpoints/" "peter birthday.png" "crom/" "Position Bias @ RTLN-Copy1.ipynb" "pamNiki.org" "Who-Am-I Gabriel.pptx" "Position Bias @ RTLN.ipynb" ".DS_Store" "TuD_AI_Expert_Group_Day.jpg" "PeterBirthday.R" ".#maartenRijk.org" "Building_Alliances.pdf" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/AI Experts/databricks_learnings/" (24703 59835 724940 453000) ".git/" "README.md" "TBD/" "utils/" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/jobs/eveningSigmoid/" (24703 52057 549272 125000) "eveningSigmoid0.json" "eveningSigmoid1.json" "eveningSigmoid6.json" "eveningSigmoid11.json" "eveningSigmoid10.json" "eveningSigmoid7.json" "eveningSigmoid8.json" "eveningSigmoid13.json" "eveningSigmoid4.json" "eveningSigmoid5.json" "eveningSigmoid12.json" "eveningSigmoid9.json" "eveningSigmoid15.json" "eveningSigmoid2.json" ".DS_Store" "eveningSigmoid3.json" "eveningSigmoid14.json" "../" "./")
+
+ ("/Users/gabrielbenedict/.pachyderm/" (24687 64793 984571 290000) "configDumb.json" "config.json" "configOld.json" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/ds-bedrock-personalisation/EEG/" (24689 16318 347893 734000) "data/" "videoland-trailers-frames/" "perFrame.csv" "plotEEG.py" "logo.jpg" "logo.pdf" "Hackathon_logo (1).ai" "That Is Not How Your Brain Works - Issue 98- Mind - Nautilus.webloc" "eye tracking.pdf" "videoland-trailers/" "references/" ".DS_Store" "How Your Brain Turns Off Your Inner Critic.webloc" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/" (24633 62751 309504 620000) "Feed Forward NN.gdraw" "maison israel.gsheet" "Polices/" "Questionnaire vierge (1).gform" "Feuille de calcul sans titre (1).gsheet" "discussion c soir.gdoc" "GWAS raw data.gsheet" "Questionnaire vierge.gform" "+41 79 411 92 06.gdoc" "Interesting Charts/" "Feuille de calcul sans titre (2).gsheet" "meta quick win ai.gslides" "Databricks Learnings.gform" "The Project Gutenberg EBook of Phaenomenologie des Geistes, by Georg Wilhelm Friedrich Hegel.gdoc" "Formulaire sans titre.gform" "Présentation sans titre (2).gslides" "invest.gsheet" "Feuille de calcul sans titre (3).gsheet" "Gabriel Bénédict.pdf" "Self-Supervised DAE (1).gdraw" "Dear Nir,.gdoc" "VersusVirusCH Hackathon Mia (Team 224).gslides" "docs/" "Gabriel Bénédict (1).pdf" "Databricks Learnings (réponses).gsheet" ".tmp.drivedownload/" "Modes d'emploi/" "UKBioBank - Data Dictionary.gsheet" "musicGenres.gslides" "codes_indications/" "Selfsupervision ideas.gsheet" "Self-Supervised DAE + Enet.gdraw" "online activities.gsheet" "Lists/" "mainFlow_V3.ipynb" "Self-Supervised NN - split.gdraw" "Icon
+" "Colab Notebooks/" "Présentation sans titre (1).gslides" "Feuerrigel.gdoc" ".DS_Store" "contacted people.gsheet" "muuusic.gslides" "Velos/" "Feuille de calcul sans titre.gsheet" "Self-Supervised DAE.gdraw" "dockerImage/" "Feuille de calcul sans titre (4).gsheet" "Présentation sans titre.gslides" "multilabel.gslides" "IMG_7223.JPG" "Self-Supervised NN - Relatedness.gdraw" "maison.gdoc" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/" (24647 16948 729957 581000) "Travel Refund/" "paperwork/" "gabriel.benedict@bertelsmann.de.dbc" "phd.org" "PRH.org" "Preparation/" "amsterd.org" "RTL/" "rent refund/" "Bertelsmann Emails.olm" "BertelsmannEduc.org" "AI Experts/" "#questions.org#" "Time Sheets/" "UVA/" "G+J/" "Bedrock/" "Introduction Week/" "www.bertelsmann-bkk.de:.webloc" "Icon
+" "choosing rotations/" "rotations/" ".DS_Store" "Bénédict_Gabriel.2019_06.BV.DRAFT_Bertelsmann_MEDIAn.pdf" "endyearmeetup/" ".#questions.org" "misc/" "corporate/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/" (24633 7048 388090 231000) "multilabel - Google Slides.webloc" "script/" "datasets/" "multilabel/" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/readingClub/" (24644 31047 609553 658000) "notesOnSS.org" "GANs/" "offline evaluation.pdf" "cloudLSTM.pdf" "RL for News Reco.pdf" "self-supervision.pdf" "fairnessAware reco.pdf" "VideoBERT/" "2007.10979.pdf" "explain or predict.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/github-tools/" (24626 34578 158441 874000) ".git/" "batch-edit.py" "README.md" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Coding/Python/" (24626 34575 415976 751000) "Scrape Movie Pictures copy.py" "Scrape Movie Pictures.py" "#pdfNameFromTitle.py#" "Notes.py" "keras.pdf" ".#pdfNameFromTitle.py" "python.png" "../" "./")
+
+ ("/Users/gabrielbenedict/Documents/journal/" (24623 26762 208522 820000) "20201124" "#20210218#" "20201112" "20201113" "20210209" ".#20210112" "#20201027#" ".#20201026" ".#20201028" "20201215" "20201027" "20201020" "20201021" "20201214" "20210215" "#20210216#" "20201110" "20210119" "#20201028#" "20201218" "20201024" "20201217" "#20201026#" "20201221" "20201013" "20210104" ".#20210216" ".#20210218" "#20210112#" "20210217" "20210216" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/bookmarksWebsite/firstProject/" (24511 44537 273242 421000) "src/" "elm.json" "elm-stuff/" "Main.elm" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/RTL/projects/musicRights/data/" (24425 61998 952513 739000) "musics.csv" "export.csv" "musicFirstTry.csv" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Coding/" (24619 55133 278776 772000) "Stata/" "Excel - VBA/" "AWS/" "SAS/" "Stan/" "Emacs/" "html/" "Java/" "terminal/" "R/" "gh-cli/" "LaTex/" "DesignPatterns.pdf" "Python/" "Icon
+" "Jupyter Lab/" ".DS_Store" "AppleScript/" "Advanced Programming" "../" "./")
+
+ ("/Users/gabrielbenedict/Documents/" (24485 37308 580878 591000) "OpenTTD/" "PkgInfo" "ScummVM Savegames/" "React/" "Electronic Arts/" ".mono/" "My Games/" "Données utilisateurs Microsoft/" "Zoom/" "MATLAB/" "WebEx/" "RDC Connections/" "SavedGames/" "console.log" "Résultat de Terminal" "HLMD/" "Digital Editions/" ".localized" "kaggle/" ".DS_Store" "Oddworld/" "ResidualVM Savegames/" "My Tableau Repository/" "journal/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/Bedrock/projects/recsys/" (24405 64884 112634 936000) "data/" ".#statusAout.org" ".git/" "mateo/" "de-identify.py" ".gitignore" "README.md" "NeuCF/" "#statusAout.org#" "references/" "requirements.txt" ".DS_Store" "axTesting.py" "neuCF.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/Bedrock/projects/recsys/data/" (24353 29104 945203 499000) "23-06 archive.csv" "23-06.csv" "query.sql" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/Bedrock/projects/adaptiveTesting/" (24371 62570 467363 389000) "#AX_test225Romain.py#" "abtest_225.csv" "plotForSlide.R" "AX_test225Romain.py" ".#ec2.sh" "AX_test225.py" "AX_test225v0.py" "ec2.sh" "#ec2.sh#" ".Rhistory" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Candidatures Summer 20/RenaissanceRe/" (24360 6867 128112 81000) "lastInterview.org" "house-price-prediction.pdf.webloc" "Gabriel Benedict – New Analyst Quiz Reinsurance_Simplified.xlsx" "Zurich_Interview Questionnaire (2019).doc" "Zurich_Interview Questionnaire – Gabriel.pdf" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/ablation/" (24619 39824 192379 530000) "export2.csv" "ablation.R" "export.csv" ".Rhistory" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/VLAP/" (24608 3001 972891 329000) ".git/" "VLAP.egg-info/" ".gitignore" "setup.py" "README.md" "archive/" ".DS_Store" "VLAP/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Candidatures Summer 20/renaissance/" (24352 10778 870442 869000) "phoneCall.org" "../" "./")
+
+ ("randomFolder/" (24540 26594 774228 191000) "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/Bedrock/projects/testing/" (24334 63269 331005 346000) "Bayesian Testing Formulas.jpg" "plots/" "abtest325.R" "writeUp/" "Bayesian Testing graphs.jpg" "abtest_325.csv" "abtest_325_date_format_program.csv" "models/" "mods.stan" "abtestViolin.pdf" ".DS_Store" "modsGroup.stan" ".Rhistory" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Cambridge/NIPS/" (24593 20845 37532 805000) "notesNIPS.org" "#notesNIPS.org#" "NeurIPS-2020-vime-extending-the-success-of-self-and-semi-supervised-learning-to-tabular-domain-Paper.pdf" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/dataPrep/" (24593 13707 669402 732000) "cancerHallmarks.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/datasets/Hallmarks-of-Cancer/labels/" (24576 16135 964206 754000) "20205718.txt" "12140138.txt" "22387176.txt" "22179576.txt" "23270833.txt" "23245650.txt" "23222813.txt" "12577239.txt" "23166757.txt" "21178304.txt" "23098476.txt" "23231648.txt" "23143272.txt" "23292685.txt" "23212913.txt" "22846113.txt" "22933598.txt" "23002206.txt" "21097672.txt" "12549857.txt" "22108827.txt" "22629318.txt" "20070897.txt" "1348967.txt" "22572398.txt" "23274857.txt" "11970855.txt" "22870112.txt" "23132676.txt" "21338203.txt" "23264463.txt" "23232625.txt" "20975834.txt" "23292493.txt" "20064835.txt" "22618884.txt" "12486015.txt" "22909360.txt" "22561333.txt" "22541785.txt" "1281554.txt" "22580046.txt" "1614357.txt" "1486841.txt" "22213475.txt" "22484220.txt" "1338304.txt" "11912168.txt" "22086824.txt" "23024612.txt" "23342249.txt" "23143110.txt" "23263278.txt" "22893470.txt" "23226724.txt" "20333679.txt" "20686221.txt" "21994129.txt" "23098072.txt" "23139858.txt" "20150366.txt" "22903739.txt" "20878069.txt" "12516957.txt" "12499280.txt" "20026743.txt" "12430006.txt" "23144496.txt" "1540219.txt" "12484548.txt" "22268560.txt" "23249693.txt" "12500660.txt" "23254198.txt" "1378293.txt" "12502710.txt" "12495478.txt" "23177934.txt" "23108138.txt" "23522254.txt" "12392158.txt" "23261678.txt" "21196431.txt" "12481425.txt" "23226527.txt" "23083876.txt" "20926896.txt" "21850397.txt" "19802014.txt" "24366173.txt" "1295440.txt" "20947717.txt" "20471162.txt" "20686220.txt" "22530035.txt" "1280703.txt" "22760862.txt" "1327543.txt" "20100593.txt" "18944142.txt" "23039130.txt" "23055798.txt" "22526680.txt" "22675506.txt" "22205389.txt" "23160694.txt" "20632815.txt" "22923588.txt" "22954700.txt" "23159001.txt" "20101074.txt" "23006539.txt" "23091651.txt" "22941331.txt" "19308738.txt" "12466123.txt" "1536007.txt" "20395120.txt" "21129360.txt" "23266739.txt" "21188035.txt" "12674762.txt" "20107607.txt" "12489119.txt" "12607798.txt" "23226335.txt" "1284834.txt" "1313584.txt" "11872299.txt" "12235244.txt" "22495714.txt" "23081697.txt" "12903118.txt" "20204363.txt" "23264851.txt" "1469065.txt" "12572356.txt" "20134230.txt" "22859959.txt" "1395091.txt" "20519814.txt" "23304196.txt" "22835868.txt" "22615145.txt" "22664794.txt" "1281999.txt" "22270933.txt" "20939432.txt" "23244773.txt" "23128605.txt" "20511723.txt" "22906093.txt" "1361306.txt" "20862378.txt" "22851646.txt" "1384375.txt" "1485542.txt" "1459429.txt" "22958892.txt" "20106725.txt" "20681405.txt" "23174185.txt" "20593913.txt" "23261524.txt" "23100610.txt" "11836618.txt" "20225150.txt" "20927195.txt" "1617649.txt" "24280190.txt" "22722460.txt" "1281386.txt" "11953889.txt" "23241743.txt" "23029447.txt" "22530037.txt" "20354187.txt" "23230145.txt" "23238519.txt" "23255939.txt" "22036841.txt" "1419623.txt" "23320197.txt" "22615794.txt" "12435633.txt" "21108794.txt" "20604962.txt" "20594311.txt" "22851530.txt" "22848707.txt" "22794249.txt" "1394204.txt" "23055201.txt" "22705236.txt" "1435691.txt" "23047605.txt" "22766785.txt" "1385453.txt" "12550055.txt" "20501860.txt" "12556342.txt" "23798001.txt" "12499255.txt" "20882892.txt" "22971811.txt" "1458468.txt" "22957140.txt" "23280485.txt" "23543859.txt" "1596891.txt" "23083134.txt" "21280565.txt" "23217706.txt" "12084030.txt" "22593574.txt" "12420217.txt" "22293713.txt" "23300534.txt" "23161172.txt" "23038007.txt" "22123295.txt" "22776959.txt" "22279137.txt" "22465023.txt" "12452332.txt" "12060611.txt" "12553004.txt" "22543972.txt" "12506039.txt" "22773809.txt" "19543830.txt" "22939316.txt" "23185784.txt" "23197380.txt" "20092964.txt" "20694196.txt" "24260065.txt" "21975289.txt" "23271722.txt" "12171898.txt" "12607599.txt" "22992618.txt" "12481036.txt" "23094058.txt" "20593709.txt" "12509295.txt" "21765468.txt" "21739465.txt" "23255119.txt" "12115477.txt" "22341523.txt" "12467216.txt" "23069658.txt" "22401348.txt" "23243586.txt" "23429262.txt" "12366810.txt" "22322523.txt" "21063097.txt" "20422883.txt" "22404783.txt" "12357429.txt" "12553372.txt" "23274302.txt" "19913046.txt" "21147860.txt" "24121491.txt" "20219441.txt" "22628558.txt" "22898872.txt" "23137536.txt" "12473065.txt" "22773560.txt" "22014978.txt" "23268075.txt" "23268707.txt" "12460794.txt" "1318401.txt" "12647634.txt" "20978325.txt" "23648393.txt" "12112320.txt" "12234411.txt" "23139719.txt" "1467515.txt" "1311633.txt" "23235164.txt" "23180767.txt" "22428047.txt" "20184723.txt" "24367685.txt" "11830522.txt" "23430509.txt" "19909581.txt" "1429875.txt" "23317266.txt" "12475992.txt" "23028984.txt" "1464626.txt" "12697993.txt" "22583549.txt" "1472078.txt" "22973555.txt" "23422737.txt" "20133837.txt" "21193016.txt" "23274058.txt" "22778780.txt" "12370496.txt" "23255900.txt" "22695344.txt" "23223128.txt" "12429974.txt" "23255914.txt" "22687754.txt" "23255243.txt" "20160076.txt" "22005915.txt" "12230501.txt" "23140147.txt" "12461298.txt" "1516065.txt" "11978176.txt" "21087507.txt" "12231192.txt" "20683149.txt" "12458342.txt" "22969901.txt" "20223135.txt" "22357967.txt" "1458479.txt" "23174591.txt" "23275151.txt" "21187506.txt" "21049082.txt" "20664062.txt" "22333588.txt" "23420486.txt" "22499048.txt" "20018866.txt" "12664615.txt" "1332809.txt" "1582349.txt" "20008136.txt" "22577350.txt" "12387751.txt" "20190804.txt" "20067526.txt" "22843497.txt" "20426969.txt" "1315291.txt" "23170250.txt" "23208435.txt" "23954413.txt" "21358296.txt" "23484085.txt" "23144724.txt" "22992812.txt" "23236487.txt" "21557329.txt" "11812999.txt" "22170031.txt" "23201559.txt" "23542175.txt" "12509290.txt" "12446587.txt" "12478469.txt" "23247530.txt" "22962263.txt" "22906929.txt" "12674770.txt" "22677908.txt" "1450637.txt" "1355514.txt" "12470592.txt" "21195710.txt" "12548019.txt" "22969849.txt" "23264896.txt" "23121427.txt" "12191570.txt" "20737228.txt" "20389043.txt" "20339958.txt" "23224295.txt" "12579213.txt" "12223346.txt" "12530607.txt" "21152298.txt" "20205737.txt" "22980794.txt" "11914642.txt" "22894905.txt" "23145148.txt" "22882626.txt" "20080744.txt" "23264894.txt" "20856226.txt" "22355784.txt" "23266715.txt" "22871786.txt" "22407299.txt" "23251422.txt" "12643451.txt" "20706593.txt" "22139427.txt" "22592527.txt" "20199942.txt" "14694722.txt" "1457364.txt" "23043075.txt" "19840828.txt" "12487440.txt" "23285698.txt" "22212815.txt" "23185620.txt" "20368693.txt" "22891289.txt" "22920668.txt" "22589701.txt" "12533046.txt" "23346016.txt" "23317259.txt" "12521324.txt" "22806877.txt" "22765922.txt" "12626418.txt" "12444543.txt" "22952573.txt" "23131583.txt" "1559229.txt" "12484029.txt" "12664617.txt" "22146344.txt" "12674376.txt" "23359693.txt" "21166739.txt" "23285263.txt" "12528894.txt" "1524003.txt" "23151908.txt" "12383904.txt" "1471764.txt" "22048816.txt" "21118556.txt" "20080624.txt" "22916133.txt" "22733972.txt" "23367225.txt" "20889718.txt" "1312701.txt" "23285288.txt" "1459995.txt" "12204665.txt" "23274516.txt" "23143302.txt" "23047602.txt" "23054118.txt" "1394217.txt" "23269235.txt" "20569502.txt" "23275152.txt" "22909774.txt" "21188144.txt" "12419447.txt" "22911891.txt" "22427941.txt" "22777894.txt" "23169272.txt" "22273805.txt" "24112101.txt" "20564218.txt" "24289616.txt" "21030797.txt" "20619277.txt" "12850814.txt" "11773160.txt" "1741385.txt" "12359748.txt" "12533047.txt" "22689960.txt" "22835516.txt" "20417553.txt" "23187803.txt" "23022267.txt" "1337999.txt" "24186204.txt" "23168408.txt" "22815822.txt" "20936128.txt" "12370286.txt" "12632256.txt" "22863195.txt" "21940234.txt" "22408395.txt" "22814321.txt" "22832494.txt" "23271730.txt" "20580968.txt" "24148623.txt" "21092281.txt" "22715397.txt" "22765880.txt" "22619591.txt" "20965410.txt" "12643444.txt" "12408370.txt" "20356387.txt" "20336315.txt" "22848674.txt" "22086203.txt" "23160493.txt" "20945273.txt" "1464591.txt" "20110356.txt" "22499665.txt" "22988493.txt" "23435856.txt" "22623369.txt" "22347418.txt" "19881551.txt" "23248303.txt" "23263186.txt" "23249948.txt" "22410783.txt" "23242809.txt" "23259597.txt" "22710713.txt" "23298485.txt" "22990536.txt" "1572394.txt" "12244187.txt" "21112394.txt" "22197802.txt" "23182854.txt" "12426565.txt" "12046072.txt" "12505357.txt" "22159410.txt" "22449386.txt" "22843550.txt" "22903612.txt" "23043761.txt" "23270461.txt" "23026853.txt" "12814189.txt" "23254306.txt" "23125221.txt" "23201449.txt" "12577104.txt" "20494629.txt" "23339698.txt" "1472035.txt" "23135783.txt" "23251295.txt" "23142523.txt" "20522955.txt" "22239943.txt" "23667739.txt" "11849319.txt" "12683217.txt" "23030360.txt" "22934451.txt" "12386826.txt" "12065244.txt" "23161852.txt" "23155249.txt" "12556337.txt" "23199656.txt" "23272129.txt" "12453272.txt" "22275235.txt" "23293472.txt" "22384233.txt" "23383661.txt" "1354082.txt" "22776508.txt" "21069451.txt" "23284640.txt" "23144635.txt" "22944376.txt" "23758735.txt" "20042714.txt" "1423284.txt" "23300781.txt" "20336777.txt" "1295379.txt" "23229313.txt" "22791146.txt" "21044925.txt" "22485174.txt" "23204518.txt" "22120717.txt" "23023137.txt" "12202919.txt" "12391022.txt" "12814188.txt" "20113375.txt" "1282003.txt" "12588700.txt" "1281278.txt" "19853600.txt" "23123725.txt" "20210607.txt" "19003113.txt" "22928441.txt" "12065682.txt" "22264502.txt" "14983378.txt" "22226043.txt" "22025280.txt" "21179939.txt" "1280402.txt" "21198292.txt" "23266941.txt" "23266955.txt" "20307623.txt" "22554671.txt" "22590627.txt" "23209410.txt" "22677774.txt" "21086092.txt" "20350779.txt" "22336911.txt" "22933705.txt" "22320183.txt" "19966861.txt" "22963683.txt" "22050423.txt" "12508658.txt" "20331620.txt" "21148072.txt" "22489823.txt" "22614006.txt" "23317200.txt" "22315058.txt" "22551455.txt" "22864932.txt" "23264205.txt" "22991213.txt" "22237206.txt" "22934693.txt" "11791181.txt" "22921063.txt" "15515527.txt" "22438805.txt" "23243309.txt" "11980654.txt" "20026737.txt" "23147699.txt" "23270927.txt" "22314150.txt" "22505206.txt" "23210792.txt" "22848758.txt" "23270728.txt" "22840462.txt" "19003298.txt" "23089335.txt" "20661828.txt" "12622418.txt" "22802136.txt" "1451349.txt" "11836256.txt" "22981203.txt" "22508045.txt" "23270926.txt" "24328532.txt" "20863366.txt" "22313602.txt" "23716868.txt" "23092099.txt" "23250823.txt" "22899882.txt" "22870946.txt" "20812004.txt" "20154149.txt" "23172421.txt" "22605917.txt" "23271806.txt" "20714087.txt" "22307313.txt" "12533744.txt" "22245120.txt" "23244088.txt" "23110475.txt" "20016540.txt" "20331621.txt" "23145312.txt" "12177246.txt" "22970173.txt" "22829774.txt" "23285165.txt" "22895699.txt" "17298156.txt" "19744772.txt" "12218188.txt" "22351035.txt" "20352345.txt" "23257779.txt" "1288288.txt" "22431001.txt" "20380798.txt" "20876804.txt" "11857086.txt" "19960020.txt" "22275356.txt" "24280290.txt" "20094972.txt" "23308053.txt" "23128449.txt" "24158109.txt" "23279696.txt" "20876800.txt" "20464641.txt" "23116564.txt" "23160380.txt" "22952881.txt" "22399488.txt" "1447315.txt" "22947917.txt" "20442453.txt" "20086180.txt" "12429650.txt" "20299756.txt" "24009839.txt" "20525379.txt" "21189165.txt" "1431095.txt" "20332304.txt" "22934133.txt" "22922989.txt" "21137066.txt" "22443054.txt" "12069691.txt" "22075705.txt" "22936718.txt" "23115482.txt" "23116821.txt" "21062926.txt" "20854069.txt" "1639539.txt" "12734068.txt" "22997883.txt" "23144626.txt" "22929189.txt" "22249246.txt" "22572935.txt" "23248265.txt" "22867999.txt" "20541562.txt" "22689530.txt" "12208764.txt" "20167975.txt" "12370807.txt" "12518062.txt" "23320127.txt" "22421439.txt" "23190890.txt" "12511053.txt" "20980775.txt" "19590824.txt" "23092936.txt" "20482528.txt" "12650706.txt" "21268915.txt" "12015983.txt" "23271397.txt" "23280187.txt" "22511934.txt" "12553062.txt" "23152079.txt" "1423296.txt" "22214381.txt" "1444225.txt" "22771922.txt" "20932474.txt" "22936719.txt" "22819936.txt" "21893193.txt" "20550888.txt" "20851879.txt" "20392992.txt" "20635689.txt" "22859269.txt" "23291854.txt" "12483647.txt" "20525350.txt" "1457339.txt" "22682706.txt" "22384180.txt" "22053106.txt" "1470779.txt" "16078444.txt" "21318160.txt" "20090913.txt" "23948918.txt" "12479700.txt" "22648972.txt" "23028886.txt" "21685713.txt" "22995475.txt" "11774243.txt" "22987071.txt" "22150625.txt" "1328588.txt" "21744173.txt" "22468171.txt" "12599421.txt" "23168911.txt" "22328083.txt" "22935614.txt" "20507318.txt" "24398380.txt" "12000222.txt" "22389673.txt" "23167349.txt" "22415601.txt" "20100866.txt" "22837015.txt" "12242083.txt" "23149922.txt" "22705496.txt" "23464460.txt" "19737566.txt" "22896630.txt" "22307089.txt" "21816206.txt" "1370093.txt" "1447316.txt" "22843031.txt" "12494891.txt" "22945332.txt" "24316222.txt" "22327365.txt" "23182879.txt" "23281476.txt" "12450390.txt" "24164383.txt" "1328987.txt" "21116849.txt" "22949905.txt" "12531020.txt" "22215664.txt" "20432174.txt" "23082676.txt" "11927016.txt" "21152038.txt" "23254288.txt" "20144215.txt" "20640572.txt" "22876288.txt" "20204879.txt" "21982881.txt" "23124112.txt" "20574928.txt" "11929832.txt" "20208138.txt" "20952396.txt" "1463101.txt" "22793782.txt" "23029387.txt" "22748151.txt" "23300791.txt" "19720422.txt" "12530060.txt" "23258707.txt" "22769410.txt" "22828727.txt" "23394443.txt" "12581481.txt" "22623531.txt" "12457038.txt" "20110254.txt" "23272139.txt" "15195129.txt" "20364579.txt" "23089469.txt" "22876840.txt" "23023480.txt" "22884369.txt" "20852630.txt" "22619121.txt" "22550599.txt" "12183074.txt" "23175176.txt" "23300545.txt" "11986236.txt" "11980647.txt" "23231968.txt" "22497777.txt" "20217555.txt" "19895865.txt" "23033490.txt" "22184067.txt" "23161498.txt" "23232078.txt" "1319408.txt" "21412013.txt" "21203423.txt" "21116096.txt" "23304253.txt" "22402744.txt" "21480565.txt" "12069693.txt" "12634122.txt" "20188144.txt" "12006491.txt" "12509233.txt" "23268564.txt" "12815293.txt" "21197417.txt" "23300633.txt" "12531021.txt" "22841394.txt" "20035374.txt" "23565596.txt" "22951839.txt" "22213200.txt" "22277962.txt" "22935429.txt" "22422053.txt" "22747101.txt" "12660017.txt" "1403541.txt" "22970388.txt" "22888341.txt" "22398780.txt" "22773298.txt" "11877436.txt" "22595969.txt" "20693267.txt" "12181065.txt" "21076414.txt" "1373558.txt" "23275086.txt" "20351312.txt" "20798497.txt" "22927549.txt" "22934253.txt" "23149912.txt" "20122407.txt" "12718610.txt" "22874652.txt" "23135359.txt" "23167379.txt" "22460537.txt" "22328714.txt" "20810208.txt" "11964309.txt" "12494889.txt" "20333571.txt" "21780103.txt" "12531010.txt" "23300602.txt" "23168260.txt" "23267699.txt" "1423313.txt" "21156285.txt" "22252523.txt" "20927103.txt" "1480490.txt" "12393629.txt" "22301190.txt" "23321169.txt" "20593952.txt" "1494354.txt" "22232214.txt" "21462328.txt" "17590955.txt" "20574924.txt" "20414008.txt" "22825757.txt" "12209878.txt" "23135775.txt" "23273983.txt" "23233419.txt" "12889855.txt" "12865631.txt" "22262543.txt" "23248097.txt" "22768064.txt" "22589544.txt" "22983392.txt" "22876119.txt" "22970226.txt" "23284890.txt" "12217878.txt" "21040752.txt" "12685860.txt" "22768919.txt" "15195125.txt" "12439909.txt" "22941038.txt" "11742853.txt" "12370834.txt" "22269172.txt" "23119062.txt" "22891768.txt" "21112773.txt" "23249808.txt" "20699632.txt" "23183175.txt" "12411706.txt" "20880961.txt" "20398056.txt" "23129611.txt" "22828070.txt" "22285130.txt" "23126278.txt" "23112334.txt" "22956747.txt" "20696059.txt" "20332242.txt" "22436374.txt" "1373811.txt" "20954073.txt" "22889480.txt" "22981962.txt" "20574919.txt" "21445621.txt" "23063526.txt" "23920275.txt" "22999863.txt" "22763454.txt" "20574925.txt" "23229497.txt" "21131419.txt" "23294923.txt" "21465446.txt" "20118229.txt" "23267883.txt" "22525268.txt" "23359979.txt" "23207622.txt" "23203444.txt" "20081839.txt" "23259762.txt" "23180246.txt" "23091439.txt" "20809980.txt" "22719059.txt" "23109338.txt" "20145304.txt" "23246483.txt" "22366308.txt" "15055260.txt" "20483759.txt" "22828138.txt" "22427682.txt" "12376465.txt" "23045683.txt" "21637621.txt" "20354270.txt" "22873102.txt" "11980715.txt" "20391138.txt" "12718607.txt" "23221383.txt" "23251664.txt" "22715852.txt" "23292149.txt" "22718351.txt" "22534171.txt" "20118983.txt" "23264393.txt" "20713694.txt" "21141739.txt" "20377132.txt" "1556770.txt" "21503892.txt" "20419261.txt" "23816712.txt" "12136428.txt" "12734064.txt" "20460749.txt" "22851016.txt" "12553047.txt" "12658828.txt" "23221036.txt" "22788839.txt" "22850877.txt" "23350354.txt" "1445491.txt" "23284663.txt" "1478710.txt" "20420190.txt" "22797064.txt" "23041550.txt" "22850678.txt" "20099325.txt" "20573279.txt" "22554915.txt" "12490541.txt" "1459734.txt" "12641820.txt" "20082738.txt" "20559452.txt" "21134984.txt" "20160030.txt" "20303261.txt" "20360922.txt" "19923925.txt" "21133594.txt" "12139732.txt" "22411092.txt" "12865633.txt" "11976323.txt" "22498846.txt" "23255952.txt" "23255946.txt" "20197645.txt" "1306527.txt" "23124652.txt" "23317220.txt" "23198967.txt" "23174717.txt" "23317208.txt" "22134754.txt" "20080488.txt" "15119525.txt" "20572576.txt" "22809334.txt" "22201186.txt" "23220513.txt" "23011762.txt" "22280301.txt" "1434651.txt" "22853953.txt" "23289018.txt" "22432918.txt" "20967519.txt" "22982677.txt" "24068038.txt" "12445208.txt" "12393401.txt" "22707516.txt" "23272057.txt" "12463595.txt" "1423885.txt" "12417599.txt" "20389038.txt" "12479268.txt" "22926658.txt" "23045694.txt" "20530580.txt" "22918942.txt" "1365325.txt" "21075102.txt" "23167425.txt" "22874668.txt" "22692904.txt" "20448413.txt" "23209436.txt" "21098263.txt" "12373297.txt" "22964484.txt" "22562468.txt" "22525723.txt" "22880064.txt" "20406967.txt" "22575896.txt" "20664182.txt" "23255611.txt" "12431980.txt" "20200432.txt" "20932246.txt" "23082126.txt" "22728903.txt" "20539003.txt" "23209807.txt" "20000475.txt" "22593693.txt" "1480469.txt" "22857264.txt" "19815061.txt" "20126263.txt" "24100035.txt" "20514026.txt" "12579898.txt" "20823571.txt" "12659514.txt" "20354842.txt" "22919057.txt" "22076588.txt" "23132791.txt" "22513871.txt" "23264221.txt" "22027089.txt" "12658805.txt" "23255942.txt" "20525204.txt" "21123967.txt" "21180766.txt" "12530056.txt" "22939634.txt" "23111389.txt" "20185912.txt" "23281044.txt" "12373308.txt" "22952903.txt" "23117049.txt" "23223340.txt" "12468598.txt" "22937180.txt" "22470124.txt" "23108141.txt" "20056578.txt" "20519932.txt" "12831059.txt" "22842522.txt" "21553290.txt" "12530080.txt" "21035309.txt" "20031246.txt" "22347511.txt" "23300567.txt" "23276383.txt" "19832839.txt" "20385015.txt" "20223349.txt" "23275339.txt" "11929636.txt" "23132960.txt" "20339477.txt" "12636105.txt" "20133848.txt" "19963135.txt" "20964820.txt" "20086003.txt" "20588232.txt" "23028051.txt" "22362593.txt" "20809206.txt" "22842668.txt" "1463095.txt" "12124174.txt" "22561404.txt" "22773735.txt" "20300433.txt" "21203561.txt" "12239604.txt" "23166510.txt" "23026134.txt" "23127558.txt" "23482850.txt" "21170084.txt" "23099063.txt" "12399129.txt" "22124152.txt" "20334580.txt" "22767230.txt" "22918943.txt" "1460013.txt" "23280549.txt" "23219618.txt" "23221387.txt" "22968518.txt" "20358470.txt" "23272087.txt" "20924143.txt" "12041507.txt" "20211058.txt" "20975318.txt" "20097285.txt" "22803408.txt" "22848179.txt" "21198260.txt" "22389691.txt" "22948179.txt" "22815530.txt" "20923189.txt" "1312623.txt" "20094029.txt" "12142967.txt" "22377215.txt" "12636098.txt" "23029205.txt" "23242420.txt" "20156803.txt" "23152853.txt" "20372058.txt" "22498909.txt" "22799305.txt" "23266555.txt" "20980434.txt" "1408144.txt" "20890633.txt" "23271983.txt" "21116101.txt" "12082612.txt" "23178880.txt" "23922328.txt" "12530531.txt" "23280601.txt" "20720310.txt" "23291718.txt" "22844353.txt" "22883142.txt" "22922798.txt" "14607726.txt" "22819295.txt" "22832986.txt" "21190990.txt" "20423312.txt" "23238993.txt" "22209867.txt" "23093405.txt" "20123696.txt" "23274568.txt" "20347380.txt" "20147338.txt" "20658731.txt" "23431290.txt" "22442157.txt" "23219753.txt" "12409831.txt" "1576706.txt" "1336179.txt" "22272768.txt" "12239968.txt" "22901140.txt" "23261429.txt" "22763445.txt" "23184390.txt" "23273978.txt" "12082607.txt" "1363346.txt" "22322981.txt" "23143036.txt" "14578017.txt" "23270478.txt" "21098705.txt" "22895682.txt" "20583210.txt" "22266866.txt" "23406762.txt" "12625783.txt" "21956158.txt" "23245831.txt" "20378992.txt" "22264240.txt" "23327050.txt" "12452772.txt" "23263160.txt" "22694344.txt" "20140245.txt" "22747691.txt" "22742931.txt" "1334154.txt" "12536237.txt" "24477458.txt" "23142824.txt" "1433375.txt" "23123564.txt" "22563920.txt" "22813866.txt" "12439605.txt" "1577279.txt" "11781072.txt" "12507933.txt" "24142698.txt" "23047035.txt" "22438059.txt" "23268708.txt" "23405783.txt" "23226467.txt" "20349282.txt" "20332618.txt" "12446006.txt" "12489111.txt" "23137061.txt" "22393334.txt" "22318307.txt" "22576685.txt" "21132012.txt" "11802212.txt" "20043298.txt" "20353033.txt" "23274876.txt" "12195297.txt" "21045259.txt" "22953701.txt" "22825683.txt" "20092614.txt" "20223503.txt" "12509275.txt" "23205094.txt" "1354348.txt" "22634383.txt" "22821546.txt" "22778016.txt" "23458731.txt" "23280101.txt" "22634208.txt" "22899815.txt" "23257665.txt" "20303770.txt" "21074696.txt" "22384099.txt" "12296652.txt" "23266321.txt" "22814258.txt" "22044563.txt" "20682066.txt" "22877927.txt" "23092556.txt" "23278137.txt" "22596188.txt" "23277562.txt" "22902837.txt" "22868436.txt" "20107790.txt" "21569197.txt" "21183791.txt" "23028579.txt" "20208355.txt" "22024718.txt" "23258740.txt" "21058195.txt" "12375734.txt" "22189713.txt" "23226513.txt" "23250485.txt" "22357969.txt" "20816008.txt" "22883469.txt" "22510844.txt" "12635657.txt" "24174263.txt" "23007558.txt" "22797777.txt" "23276457.txt" "11821958.txt" "23949920.txt" "23227181.txt" "12725487.txt" "22383522.txt" "22825251.txt" "23280316.txt" "22544226.txt" "22395432.txt" "22844446.txt" "1582420.txt" "23200933.txt" "20686229.txt" "1419600.txt" "22844452.txt" "22708527.txt" "22019117.txt" "22858906.txt" "22539965.txt" "20363913.txt" "23257894.txt" "22962287.txt" "12509260.txt" "22431524.txt" "1312308.txt" "23513490.txt" "23013101.txt" "20587979.txt" "23255113.txt" "23127529.txt" "22753494.txt" "23255891.txt" "23180966.txt" "23196876.txt" "24022637.txt" "22093616.txt" "1294409.txt" "23065281.txt" "23128395.txt" "1399111.txt" "21082277.txt" "20571235.txt" "20107801.txt" "20074151.txt" "22825327.txt" "20540983.txt" "22778405.txt" "23242121.txt" "23180582.txt" "22768158.txt" "23825998.txt" "23213352.txt" "20237987.txt" "22564725.txt" "1358983.txt" "12504222.txt" "22838389.txt" "20734923.txt" "22722938.txt" "20357518.txt" "22284893.txt" "20103683.txt" "23064360.txt" "20450762.txt" "21118808.txt" "19655166.txt" "23157741.txt" "12699839.txt" "22940742.txt" "23142370.txt" "12482245.txt" "20138826.txt" "23178952.txt" "22317976.txt" "12509276.txt" "23273920.txt" "22083956.txt" "23219535.txt" "1486863.txt" "20639624.txt" "12151349.txt" "23304558.txt" "12441346.txt" "22520577.txt" "1457579.txt" "12355140.txt" "22778940.txt" "22639908.txt" "22990615.txt" "12031683.txt" "12219835.txt" "1483264.txt" "22784709.txt" "23002344.txt" "23274518.txt" "12203111.txt" "12441637.txt" "12508545.txt" "23289480.txt" "22753722.txt" "23161184.txt" "1460673.txt" "21030559.txt" "21071263.txt" "23772374.txt" "1433571.txt" "22921746.txt" "20881612.txt" "21062974.txt" "21921941.txt" "20363723.txt" "20100566.txt" "22778799.txt" "21255184.txt" "11936957.txt" "1445801.txt" "22496613.txt" "12529992.txt" "22927647.txt" "20354164.txt" "1318961.txt" "12385002.txt" "24009843.txt" "21947232.txt" "22479563.txt" "23300887.txt" "23211746.txt" "23587231.txt" "1394185.txt" "19556603.txt" "12453409.txt" "12541019.txt" "20398195.txt" "22913657.txt" "12101184.txt" "12219015.txt" "1491701.txt" "20393017.txt" "22554618.txt" "23251606.txt" "12462603.txt" "23287532.txt" "20215500.txt" "21120602.txt" "22209778.txt" "1330343.txt" "22454142.txt" "22615834.txt" "23255470.txt" "12507935.txt" "12522551.txt" "22337862.txt" "12474059.txt" "12882352.txt" "12561326.txt" "20422865.txt" "23320038.txt" "19950199.txt" "19637241.txt" "12486230.txt" "20107609.txt" "12452049.txt" "20098673.txt" "22652558.txt" "20717669.txt" "23151137.txt" "23181114.txt" "22264786.txt" "22481237.txt" "1337602.txt" "21290343.txt" "22707954.txt" "1473227.txt" "23255896.txt" "20959490.txt" "20530905.txt" "20154721.txt" "20187579.txt" "23056314.txt" "20948210.txt" "23056300.txt" "20707650.txt" "23717113.txt" "23157744.txt" "12417717.txt" "22213297.txt" "22674789.txt" "18763061.txt" "22974233.txt" "12906318.txt" "11857413.txt" "12227504.txt" "23928665.txt" "20357441.txt" "22267489.txt" "12537564.txt" "23085979.txt" "23257893.txt" "22665055.txt" "23274086.txt" "21039035.txt" "23143679.txt" "22710435.txt" "12554766.txt" "20817674.txt" "22687991.txt" "22851716.txt" "22653530.txt" "22763381.txt" "23091717.txt" "12359757.txt" "22984881.txt" "23151902.txt" "22800968.txt" "20812283.txt" "20080835.txt" "12513808.txt" "20190398.txt" "12220727.txt" "24139416.txt" "21195136.txt" "1371284.txt" "24343302.txt" "22722849.txt" "22593586.txt" "1458471.txt" "12473681.txt" "22895557.txt" "22842569.txt" "21057538.txt" "12434285.txt" "22334577.txt" "21917986.txt" "23272179.txt" "22937135.txt" "22788692.txt" "22589534.txt" "12011225.txt" "21779449.txt" "22452442.txt" "12192110.txt" "12420227.txt" "22768028.txt" "21058192.txt" "20679748.txt" "23008335.txt" "22920688.txt" "23364257.txt" "20234124.txt" "22507866.txt" "22847613.txt" "20957523.txt" "20133803.txt" "11724768.txt" "20429312.txt" "1622628.txt" "23085987.txt" "12498392.txt" "23304206.txt" "20588279.txt" "23251575.txt" "22354042.txt" "22941289.txt" "23274911.txt" "22766398.txt" "21159663.txt" "22161874.txt" "1451050.txt" "12505306.txt" "1457353.txt" "23379414.txt" "23149547.txt" "23178942.txt" "23250910.txt" "20953816.txt" "21400522.txt" "22895184.txt" "21136273.txt" "23300882.txt" "17585441.txt" "23029264.txt" "23232401.txt" "23266736.txt" "23229021.txt" "22476443.txt" "20111042.txt" "20214814.txt" "22800606.txt" "19935714.txt" "21604273.txt" "22919357.txt" "23274497.txt" "23028344.txt" "23241438.txt" "20205716.txt" "21125741.txt" "12438278.txt" "20448329.txt" "21166888.txt" "20487216.txt" "19770690.txt" "23023561.txt" "12220644.txt" "23136839.txt" "22761813.txt" "12489114.txt" "22710026.txt" "23275006.txt" "20497549.txt" "20355335.txt" "21061467.txt" "23070475.txt" "12183433.txt" "22278384.txt" "22006184.txt" "22992831.txt" "22827734.txt" "23276719.txt" "23286398.txt" "23073801.txt" "21658718.txt" "22356938.txt" "11888853.txt" "23069871.txt" "12202630.txt" "23220211.txt" "22936771.txt" "23070273.txt" "20463594.txt" "22357207.txt" "11914273.txt" "23239191.txt" "23277201.txt" "22827697.txt" "12161501.txt" "23291974.txt" "22685175.txt" "20303211.txt" "23172666.txt" "21058190.txt" "23772373.txt" "12444953.txt" "21220911.txt" "23386005.txt" "12441195.txt" "1612500.txt" "22668016.txt" "22790975.txt" "21947619.txt" "20190402.txt" "22113614.txt" "23104055.txt" "12611083.txt" "23023398.txt" "12368953.txt" "12415261.txt" "1483262.txt" "12495475.txt" "1458472.txt" "22426302.txt" "22123926.txt" "20223881.txt" "19836430.txt" "22840369.txt" "12508543.txt" "22948721.txt" "20043883.txt" "1639009.txt" "11850815.txt" "11896073.txt" "23287468.txt" "19744468.txt" "20681796.txt" "22956286.txt" "22631638.txt" "23027128.txt" "23229340.txt" "22776956.txt" "22681312.txt" "12097282.txt" "22677490.txt" "22446839.txt" "21606077.txt" "20930550.txt" "20922140.txt" "20119958.txt" "20943596.txt" "23234503.txt" "22489696.txt" "21042532.txt" "23272224.txt" "20200484.txt" "22201685.txt" "22728792.txt" "22858678.txt" "22842620.txt" "20714148.txt" "12665307.txt" "22251703.txt" "22372864.txt" "12716464.txt" "20839428.txt" "20925001.txt" "21541970.txt" "22552284.txt" "20468007.txt" "21063098.txt" "20819511.txt" "22935696.txt" "24260485.txt" "12513759.txt" "22575613.txt" "22276155.txt" "20824135.txt" "20308543.txt" "11901535.txt" "22484629.txt" "12536240.txt" "20179302.txt" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/datasets/Hallmarks-of-Cancer/" (24576 16135 964314 363000) ".git/" "text/" "README.md" "labels/" "LICENSE" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/datasets/" (24576 16172 685503 606000) "Hallmarks-of-Cancer/" "arXiv/" "moviePosters/" "moviePostersSoftF1/" "jigsaw-toxic-comment-classification-challenge/" "Places2- A Large-Scale Database for Scene Understanding.webloc" "DSEG660/" "chemical-exposure-information-corpus/" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/transformers/models/distilbert/" (24577 48358 844644 523000) "tokenization_distilbert_fast.py" "tokenization_distilbert.py" "__init__.py" "modeling_distilbert.py" "modeling_tf_distilbert.py" "configuration_distilbert.py" "../" "./")
+
+ ("/etc/" (24568 8274 52588 73000) "notify.conf" "mail.rc" "bashrc~previous" "newsyslog.conf" "afpovertcp.cfg" "zprofile" "passwd" "mail.rc~orig" "services" "man.conf" "cups/" "AFP.conf" "protocols" "shells~orig" "wfs/" "com.apple.screensharing.agent.launchd" "paths~orig" "aliases" "openldap/" "fstab.hd" "sshd_config~previous" "master.passwd" "rpc" "passwd~orig" "gettytab~orig" "php.ini.default-5.2-previous" "ntp.conf" "php.ini.default-previous~orig" "ntp.conf~orig" "pf.anchors/" "pf.os" "postfix/" "efax.rc~previous" "hosts" "localtime~orig" "kern_loader.conf~previous" "nfs.conf~orig" "hosts~orig" "afpovertcp.cfg~orig" "rc.netboot" "moduli~previous" "asl.conf" "sudo_lecture" "sudoers~orig" "nfs.conf" "resolv.conf" "locate.rc" "authorization.deprecated" "profile~orig" "ssh_config~orig" "ntp_opendirectory.conf" "fstab.hd~previous" "csh.cshrc" "profile" "ftpusers" "ssh/" "autofs.conf" "apache2/" "rpc~previous" "find.codes" "networks" "hosts.equiv" "defaults/" "zshrc" "pam.d/" "irbrc" "krb5.keytab~orig" "newsyslog.d/" "auto_master~orig" "find.codes~orig" "bashrc" "ftpusers~orig" "sudoers" "pf.conf" "localtime" "php.ini.default" "xtab" "csh.cshrc~orig" "rmtab" "paths" "php-fpm.conf.default" "group~previous" "php-fpm.d/" "ttys" "rc.common~previous" "shells" "ppp/" "manpaths.d/" "php.ini.default-previous" "auto_home" "group" "protocols~previous" "security/" "rtadvd.conf" "csh.login~orig" "asl/" "paths.d/" "networks~orig" "kern_loader.conf" "master.passwd~orig" "gettytab" "zshrc_Apple_Terminal" "snmp/" "racoon/" "bashrc_Apple_Terminal" "aliases.db" "csh.logout" "ttys~previous" "nanorc" "ssl/" "sudoers.d/" "krb5.keytab" "syslog.conf~previous" "rtadvd.conf~previous" "syslog.conf" "csh.login" "php.ini.default-5.2-previous~orig" "auto_master" "csh.logout~orig" "rc.common" "services~previous" "manpaths" "periodic/" "emond.d/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/KU Leuven/Courses/Semester 4/Support Vector Machines/Exercises/Session 3/My Solution/" (24304 27369 281991 908000) "ex3 (1).tex" "ex3.tex" "ex3_(1).pyg" "ltximg/" "modelvariables.mat" "_minted-ex3/" "ex3 (1).bbl" "ex3.org" "ex3.bbl" "ex3 (1).org" "ex3.pdf" "ex3 (1).pdf" "Code/" "ex3.bib" "images/" "Archive/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Candidatures Summer 20/credit-suisse/" (24324 23819 470414 772000) "inter.org" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/transformers/" (24568 14736 574421 609000) "modeling_tf_outputs.py" "modeling_tf_utils.py" "trainer_pt_utils.py" "trainer_callback.py" "integrations.py" "data/" "generation_tf_utils.py" "convert_pytorch_checkpoint_to_tf2.py" "generation_beam_search.py" "trainer.py" "commands/" "file_utils.py" "hf_api.py" "modeling_utils.py" "tokenization_utils_fast.py" "modeling_tf_pytorch_utils.py" "dependency_versions_table.py" "generation_utils.py" "training_args.py" "generation_logits_process.py" "models/" "utils/" "convert_slow_tokenizer.py" "pipelines/" "__init__.py" "training_args_tf.py" "convert_slow_tokenizers_checkpoints_to_fast.py" "optimization.py" "modelcard.py" "training_args_seq2seq.py" "hf_argparser.py" "trainer_utils.py" "dependency_versions_check.py" "trainer_tf.py" "activations.py" "testing_utils.py" "tokenization_utils_base.py" "activations_tf.py" "modeling_flax_utils.py" "trainer_seq2seq.py" "convert_tf_hub_seq_to_seq_bert_to_pytorch.py" "convert_graph_to_onnx.py" "tokenization_utils.py" "configuration_utils.py" "modeling_outputs.py" "benchmark/" "optimization_tf.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/transformers/models/auto/" (24568 15107 14557 730000) "tokenization_auto.py" "modeling_auto.py" "__init__.py" "configuration_auto.py" "modeling_tf_auto.py" "modeling_flax_auto.py" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/transformers/models/" (24568 13535 790941 386000) "mbart/" "openai/" "layoutlm/" "fsmt/" "bert_japanese/" "funnel/" "blenderbot_small/" "prophetnet/" "flaubert/" "gpt2/" "phobert/" "mpnet/" "xlnet/" "retribert/" "mt5/" "distilbert/" "roberta/" "longformer/" "mmbt/" "blenderbot/" "bert/" "xlm/" "barthez/" "encoder_decoder/" "camembert/" "dialogpt/" "bart/" "pegasus/" "rag/" "mobilebert/" "xlm_roberta/" "dpr/" "t5/" "__init__.py" "herbert/" "tapas/" "transfo_xl/" "reformer/" "bertweet/" "ctrl/" "lxmert/" "bert_generation/" "auto/" "led/" "xlm_prophetnet/" "deberta/" "electra/" "marian/" "squeezebert/" "albert/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/src/" (24568 13535 719369 578000) "transformers/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/transformers/" (24568 13535 845167 744000) "src/" "notebooks/" ".circleci/" ".git/" "hubconf.py" "setup.cfg" "templates/" ".github/" "scripts/" "examples/" "CONTRIBUTING.md" "valohai.yaml" ".gitignore" "setup.py" "README.md" "model_cards/" "docs/" ".coveragerc" "utils/" "MANIFEST.in" "tests/" "pyproject.toml" "Makefile" "LICENSE" "docker/" "CODE_OF_CONDUCT.md" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/" (24561 34410 917401 299000) "personnel/" "Jobs/" "Friends/" "Banque/" "Coding/" "AI/" "Cities/" "Assurances/" "Projects/" "Gymnase/" "Copie de PeRSonAl tutorial @ ISCA 2020 Registration.gsheet" ".DS_Store" "Clubs/" "UNIS/" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Jobs/Work Experience/Bertelsmann/UVA/research topics/trailerPersonalisation/script/exploration/" (24539 11146 844192 944000) "toxicComments.R" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Projects/gabriben.github.io/GDPvsStockMarket/" (24261 25890 69747 391000) "testingTrelliscope.R" "growth.Rmd" "growth.html" "countries.RDS" "growth_files/" ".DS_Store" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/UNIS/online learning/done/web crawling with R (DataCamp)/" (24261 25891 694523 902000) "wikiInfoBox.R" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Friends/famille/" (24530 15740 16488 492000) "fam.tex" "_minted-fam/" "fam.org" "fam.pdf" "../" "./")
+
+ ("/Users/gabrielbenedict/Google_Drive/docs/Friends/" (24526 8627 462374 142000) "Ali/" "Seba/" "Michela/" "famille/" "Laura/" "Montaga/" "Tibère Wiesel/" "Sam/" ".DS_Store" "Caroline/" "codes d'accès de Bernard.doc" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

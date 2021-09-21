@@ -1,0 +1,18 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".stackoverflow.com"
+  [url-cookie "prov" "957e7bc3-84b0-97d7-81d0-b70b9d309cb7" "Fri, 01-Jan-2055 00:00:00 GMT" "/" ".stackoverflow.com" nil])
+ ("linkinghub.elsevier.com"
+  [url-cookie "visitorId" "pMiJGPaLHdMmNm7PMsLL" "Sun Apr 20 22:47:27 2087 GMT" "/" "linkinghub.elsevier.com" nil]))
+)
+(setq url-cookie-secure-storage
+ '((".doi.org"
+  [url-cookie "__cfduid" "ddaeb702d6dc78d7cc1770d13deb62df81610881127" "Tue, 16-Feb-21 10:58:47 GMT" "/" ".doi.org" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

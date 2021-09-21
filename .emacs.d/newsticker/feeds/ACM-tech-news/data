@@ -1,0 +1,58 @@
+;; -*- coding: utf-8 -*-
+(("technews-editor@acm.org" "Kill the Newsletter! Inbox: 5097m2e1cy24h6fu@kill-the-newsletter.com →
+https://kill-the-newsletter.com/feeds/5097m2e1cy24h6fu.xml" nil (24626 24027 466952 0) feed 0 nil nil ((link ((rel . "self") (type . "application/atom+xml") (href . "https://kill-the-newsletter.com/feeds/5097m2e1cy24h6fu.xml"))) (link ((rel . "alternate") (type . "text/html") (href . "https://kill-the-newsletter.com"))) (id nil "urn:kill-the-newsletter:5097m2e1cy24h6fu") (title nil "technews-editor@acm.org") (subtitle nil "Kill the Newsletter! Inbox: 5097m2e1cy24h6fu@kill-the-newsletter.com →
+        https://kill-the-newsletter.com/feeds/5097m2e1cy24h6fu.xml") (updated nil "2021-02-21T13:08:06.483Z") (author nil (name nil "Kill the Newsletter!")) (entry nil (id nil "urn:kill-the-newsletter:svvnsgc5aa8ty3el") (title nil "“technews-editor@acm.org” Inbox Created") (author nil (name nil "Kill the Newsletter!")) (updated nil "2021-02-21T13:08:06.483Z") (link ((rel . "alternate") (type . "text/html") (href . "https://kill-the-newsletter.com/alternate/5097m2e1cy24h6fu/svvnsgc5aa8ty3el.html"))) (content ((type . "html")) "<p>
+      Sign up for the newsletter with<br /><code class=\"copyable\"
+        >5097m2e1cy24h6fu@kill-the-newsletter.com</code
+      >
+    </p>
+    <p>
+      Subscribe to the Atom feed at<br /><code class=\"copyable\"
+        >https://kill-the-newsletter.com/feeds/5097m2e1cy24h6fu.xml</code
+      >
+    </p>
+    <p>
+      Don’t share these addresses.<br />They contain an identifier that other
+      people could use<br />to send you spam and to control your newsletter
+      subscriptions.
+    </p>
+    <p>Enjoy your readings!</p>
+    <p>
+      <a href=\"https://kill-the-newsletter.com\"><strong>Create Another Inbox</strong></a>
+    </p>")))) ("“technews-editor@acm.org” Inbox Created" "<p>
+Sign up for the newsletter with<br /><code class=\"copyable\"
+>5097m2e1cy24h6fu@kill-the-newsletter.com</code
+>
+</p>
+<p>
+Subscribe to the Atom feed at<br /><code class=\"copyable\"
+>https://kill-the-newsletter.com/feeds/5097m2e1cy24h6fu.xml</code
+>
+</p>
+<p>
+Don’t share these addresses.<br />They contain an identifier that other
+people could use<br />to send you spam and to control your newsletter
+subscriptions.
+</p>
+<p>Enjoy your readings!</p>
+<p>
+<a href=\"https://kill-the-newsletter.com\"><strong>Create Another Inbox</strong></a>
+</p>" "https://kill-the-newsletter.com/alternate/5097m2e1cy24h6fu/svvnsgc5aa8ty3el.html" (24626 23350) new 1 nil nil ((guid nil "urn:kill-the-newsletter:svvnsgc5aa8ty3el") (id nil "urn:kill-the-newsletter:svvnsgc5aa8ty3el") (title nil "“technews-editor@acm.org” Inbox Created") (author nil (name nil "Kill the Newsletter!")) (updated nil "2021-02-21T13:08:06.483Z") (link ((rel . "alternate") (type . "text/html") (href . "https://kill-the-newsletter.com/alternate/5097m2e1cy24h6fu/svvnsgc5aa8ty3el.html"))) (content ((type . "html")) "<p>
+      Sign up for the newsletter with<br /><code class=\"copyable\"
+        >5097m2e1cy24h6fu@kill-the-newsletter.com</code
+      >
+    </p>
+    <p>
+      Subscribe to the Atom feed at<br /><code class=\"copyable\"
+        >https://kill-the-newsletter.com/feeds/5097m2e1cy24h6fu.xml</code
+      >
+    </p>
+    <p>
+      Don’t share these addresses.<br />They contain an identifier that other
+      people could use<br />to send you spam and to control your newsletter
+      subscriptions.
+    </p>
+    <p>Enjoy your readings!</p>
+    <p>
+      <a href=\"https://kill-the-newsletter.com\"><strong>Create Another Inbox</strong></a>
+    </p>"))))

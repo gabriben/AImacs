@@ -2,7 +2,6 @@
 
 Emacs Fast Start
 ----------------
-(process copied from https://github.com/squiter/emacs-fast-start/blob/master/README.md)
 
 ## Installation
 
@@ -16,24 +15,13 @@ This command shouldn't return anything!
 
 Since you don't have any files in your home directory, let's begin!  
 
-#### Clone the repo:
+#### Clone the repo in your home directory:
 
 ```
-sudo git clone git@github.com:gabriben/EmacsforStatistics
+cd ~/
+git init .
+git remote add origin https://github.com/gabriben/AImacs.git
+git fetch origin
+git checkout master
 ```
 
-Then enter in repo directory:
-
-```
-cd EmacsforStatistics
-```
-
-Then make it:
-
-```
-make
-```
-
-This will copy `.emacs` and `.emacs.d` to your home directory.
-
-Ok, that's it! :)

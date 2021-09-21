@@ -19,21 +19,9 @@ Since you don't have any files in your home directory, let's begin!
 #### Clone the repo:
 
 ```
-sudo git clone git@github.com:gabriben/EmacsforStatistics
+git init .
+git remote add origin https://github.com/gabriben/AImacs.git
+git fetch origin
+git checkout master
 ```
 
-Then enter in repo directory:
-
-```
-cd EmacsforStatistics
-```
-
-Then make it:
-
-```
-make
-```
-
-This will copy `.emacs` and `.emacs.d` to your home directory.
-
-Ok, that's it! :)
